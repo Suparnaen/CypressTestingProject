@@ -1,0 +1,21 @@
+{
+  "name": "cypresstestingproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "keywords": [
+    "automation",
+    "testing",
+    "cypress"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.2",
+    "cypress-xpath": "^1.6.2",
+    "prettier": "^2.6.0"
+  }
+}
